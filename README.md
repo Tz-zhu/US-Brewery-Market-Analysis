@@ -27,7 +27,7 @@ The analysis combines several techniques:
 
 ## Key Findings
 - **Top Recommended States** — **Utah, Texas, and Oklahoma** combine strong demand, high purchasing power, and manageable entry costs.
-- Population and income are the strongest drivers of brewery market potential.
+- Population is the strongest driver of brewery market potential.
 - Several states show high income but relatively low brewery competition.
 - Regional patterns reveal lower competition in the Southwest and Southeast.
 
